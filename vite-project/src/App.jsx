@@ -847,9 +847,10 @@ function AutoServisLazarMaksimovic() {
             Sve što jednom vozaču treba na jednom mestu
           </h2>
           <div className="section-sub">
-            Stilizovao sam prikaz kroz kartice, ikonice i hover efekat tako da
-            stranica izgleda ozbiljnije i modernije, a i dalje ostaje
-            jednostavna za dalje menjanje.
+            U našem servisu možete obaviti sve osnovne popravke i održavanje
+            vozila na jednom mestu. Dugogodišnje iskustvo, kvalitetni delovi i
+            pažljiv pristup svakom automobilu garantuju pouzdan i bezbedan rad
+            vašeg vozila.
           </div>
 
           <div className="services-grid">
