@@ -399,6 +399,7 @@ function AutoServisLazarMaksimovic() {
           margin-bottom: 12px;
         }
         .section-title {
+          color: #717c8dff;
           margin: 0;
           font-size: clamp(28px, 5vw, 42px);
           line-height: 1.1;
@@ -406,7 +407,7 @@ function AutoServisLazarMaksimovic() {
         .section-sub {
           margin-top: 14px;
           max-width: 760px;
-          color: #475569;
+          color: #50688aff;
           line-height: 1.75;
           font-size: 17px;
         }
